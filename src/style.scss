@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+$font-family: 'Outfit', sans-serif;
+
+$purple: #644AFF;
+$yellow: #FFE84A;
+$white: #FFFFFF;
+$light-grey: #E5E3F2;
+$dark-grey: #696580;
+$black: #333333;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
